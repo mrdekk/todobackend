@@ -6,6 +6,14 @@ BSD-3 LICENSE
 
 usage:
 
-# swift build (search for binary in Build/Debug folder)
+// to build for linux
 
+```bash
+# swift build (search for binary in Build/Debug folder)
+```
+
+// to hack with Xcode
+
+```bash
 # swift package generate-xcodeproj (open the generated xcodeproj and practice in coding)
+```
